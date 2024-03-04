@@ -22,3 +22,9 @@ Para ello utilizaremos un git reset para mover la rama al commit anterior. Asi d
 **Séptimo:**
 - Ahora ya tenemos todo finalizado, subimos todo al repositorio mediante un git push y luego creamos un release mediante.
 También hacemos el commit de nuestra rama readme pero no lo mergeamos.
+
+**Octavo:**
+- Subimos la rama readme a nuestro repositorio.
+
+**Noveno:**
+-Sacamos buena nota en este examen :).
