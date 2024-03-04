@@ -27,4 +27,4 @@ También hacemos el commit de nuestra rama readme pero no lo mergeamos.
 - Subimos la rama readme a nuestro repositorio.
 
 **Noveno:**
--Sacamos buena nota en este examen :).
+- Sacamos buena nota en este examen :).
